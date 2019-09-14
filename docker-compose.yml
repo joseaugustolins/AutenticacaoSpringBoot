@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  autenticacao:
+    image: autenticacaospringjdk8:latest
+    ports:
+      - 8080:8080
