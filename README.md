@@ -2,6 +2,8 @@
 SpringBootAuthenticationInMemory
 
 #Requirements
+- GIT
+- Java
 - Docker
 - Docker Compose
 
@@ -12,3 +14,4 @@ SpringBootAuthenticationInMemory
 ` docker build -t autenticacaospringjdk8 .`
 - Up Container in background with docker compose
 `docker-compose up -d`
+ 
